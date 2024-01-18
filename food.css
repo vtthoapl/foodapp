@@ -1,0 +1,6 @@
+img {
+  width: 300px;
+}
+table > td {
+  column-gap: 100px;
+}
